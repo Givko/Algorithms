@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using AlgorithmsExercises.Solutions.Fundamentals.GraphTheoryTraversalAndShortestPath;
 using AlgorithmsExercises.Solutions.Fundamentals.RecursionAndBacktracking;
 using System;
 
@@ -8,7 +9,7 @@ namespace _01LoopImitation
     {
         static void Main()
         {
-            Cinema.GetCombinations();
+            CyclesInAGraph.IsGraphAcyclic();
         }
     }
 }
