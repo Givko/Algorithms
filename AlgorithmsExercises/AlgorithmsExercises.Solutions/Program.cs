@@ -1,7 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using AlgorithmsExercises.Solutions.Fundamentals.GraphTheoryTraversalAndShortestPath;
-using AlgorithmsExercises.Solutions.Fundamentals.RecursionAndBacktracking;
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace _01LoopImitation
 {
@@ -9,7 +11,8 @@ namespace _01LoopImitation
     {
         static void Main()
         {
-            CyclesInAGraph.IsGraphAcyclic();
+            BreakCycles.IsGraphAcyclic();
         }
     }
+    
 }
