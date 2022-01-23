@@ -12,7 +12,7 @@ namespace _01LoopImitation
     {
         static void Main()
         {
-            BreakCycles.IsGraphAcyclic();
+            RoadReconstruction.FindImportantStreets();
         }
     }
     
