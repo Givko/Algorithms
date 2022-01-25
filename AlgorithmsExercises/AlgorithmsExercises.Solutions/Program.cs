@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using AlgorithmsExercises.Solutions.Fundamentals.DynamicProgramming;
 using AlgorithmsExercises.Solutions.Fundamentals.GraphTheoryTraversalAndShortestPath;
 using System;
 using System.Collections.Generic;
@@ -12,7 +13,7 @@ namespace _01LoopImitation
     {
         static void Main()
         {
-            RoadReconstruction.FindImportantStreets();
+            MoveDownRight.MoveDownRightProblem();
         }
     }
     
