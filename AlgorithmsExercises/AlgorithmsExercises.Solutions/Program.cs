@@ -13,7 +13,7 @@ namespace _01LoopImitation
     {
         static void Main()
         {
-            MoveDownRight.MoveDownRightProblem();
+            PascalTriangle.GetNumber();
         }
     }
     
