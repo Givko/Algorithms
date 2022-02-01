@@ -127,7 +127,7 @@ namespace AlgorithmsExercises.Solutions.Advanced
                             PrevNode = key,
                             DistanceValue = double.PositiveInfinity
                         });
-            };
+            }
         }
     }
 }
