@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using AlgorithmsExercises.Solutions.Advanced;
 using AlgorithmsExercises.Solutions.Fundamentals.DynamicProgramming;
 using AlgorithmsExercises.Solutions.Fundamentals.GraphTheoryTraversalAndShortestPath;
 using System;
@@ -13,7 +14,7 @@ namespace _01LoopImitation
     {
         static void Main()
         {
-            PascalTriangle.GetNumber();
+            Dijsktra.DijsktraShortestPath();
         }
     }
     
